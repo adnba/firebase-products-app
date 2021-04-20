@@ -13,7 +13,7 @@ export default function Menu(props) {
     <Navbar bg="light" expand="lg">
       <Link className="navbar-brand" to="/">
         <img src={GoogleIcon} width={50} alt="React Bootstrap logo" />
-        <span className="ml-2">Products App</span>
+        <span className="ml-2">Products App 2</span>
       </Link>
       <Navbar.Brand></Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
