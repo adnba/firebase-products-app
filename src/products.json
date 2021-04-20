@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "name": "Furniture"
+    },
+    {
+      "name": "Clothes"
+    },
+    {
+      "name": "Art"
+    },
+    {
+      "name": "GA"
+    }
+  ],
+  "products": {
+    "0": {
+      "category": "furniture",
+      "comments": [
+        {
+          "body": "it broke in one week",
+          "rating": 2,
+          "title": "not really good",
+          "userAvatar": "",
+          "userId": "",
+          "userName": "Bob"
+        },
+        {
+          "body": "i like it alot",
+          "rating": "5",
+          "title": "best table",
+          "userAvatar": "https://www.kindpng.com/picc/m/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+          "userId": "LexHHcqq19WxMCsrTdZQgnyEEoj1",
+          "userName": "Adnen Ben Amor"
+        },
+        {
+          "body": "it broke after one week",
+          "rating": "1",
+          "title": "actually it's bad",
+          "userAvatar": "https://www.kindpng.com/picc/m/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+          "userId": "LexHHcqq19WxMCsrTdZQgnyEEoj1",
+          "userName": "Adnen Ben Amor"
+        },
+        {
+          "body": "broke in one week",
+          "rating": "0",
+          "title": "very very bad",
+          "userAvatar": "https://www.kindpng.com/picc/m/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+          "userId": "LexHHcqq19WxMCsrTdZQgnyEEoj1",
+          "userName": "Adnen Ben Amor"
+        }
+      ],
+      "description": "good table",
+      "image": "https://cdn2.mathi-design.net/9639/vintage-low-table.jpg",
+      "price": 70,
+      "quantity": 40,
+      "title": "table1"
+    },
+    "1": {
+      "category": "furniture",
+      "description": "very good sofa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiMCFGrhBDCNOo707TQpB96RS4Ecj0yz5VWFpof6VZluKgGVftkeT24Pq9WwK2uJR6ko&usqp=CAU",
+      "price": 710,
+      "quantity": 45,
+      "title": "sofa"
+    },
+    "-MY-kkI1qk2Pv7W_fkaV": {
+      "category": "furniture",
+      "description": "yellow chair",
+      "image": "https://www.barkerandstonehouse.co.uk/images/swatchzoom/TWYFCHAIYELL_1_Zoom.jpg",
+      "price": 12,
+      "quantity": 41,
+      "title": "chair"
+    },
+    "-MY9klwPhKq-Z6oh5FLA": {
+      "category": "furniture",
+      "comments": [
+        {
+          "body": "i like the color a lot",
+          "rating": "3",
+          "title": "i love this chair",
+          "userAvatar": "https://www.kindpng.com/picc/m/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png",
+          "userId": "LexHHcqq19WxMCsrTdZQgnyEEoj1",
+          "userName": "Adnen Ben Amor"
+        }
+      ],
+      "description": "new",
+      "image": "https://www.barkerandstonehouse.co.uk/images/swatchzoom/TWYFCHAIYELL_1_Zoom.jpg",
+      "price": 12,
+      "quantity": 20,
+      "title": "new thing"
+    },
+    "-MY9luzvsUAFA6JAtz4H": {
+      "category": "art",
+      "description": "123456",
+      "image": "https://www.visualartsbrampton.com/images/exhibits/snail/sample-card-2.jpg",
+      "price": 5,
+      "quantity": 100,
+      "title": "new 5"
+    },
+    "-MY9onHErF12oN0w9Cm5": {
+      "category": "art",
+      "description": "adzadzadzdza",
+      "image": "https://www.visualartsbrampton.com/images/exhibits/snail/sample-card-2.jpg",
+      "price": 44,
+      "quantity": 50,
+      "title": "new6"
+    },
+    "-MY9pOKmf-ZIrITgNXyk": {
+      "category": "art",
+      "description": "adzadzadzdza",
+      "image": "https://www.visualartsbrampton.com/images/exhibits/snail/sample-card-2.jpg",
+      "price": 44,
+      "quantity": 50,
+      "title": "new7"
+    },
+    "-MY9pfMb8GNc0Y7rpZJY": {
+      "category": "art",
+      "description": "adzadzadzdza",
+      "image": "https://www.visualartsbrampton.com/images/exhibits/snail/sample-card-2.jpg",
+      "price": 44,
+      "quantity": 50,
+      "title": "new8"
+    },
+    "-MY9r79wqnNz_NDtCjED": {
+      "category": "furniture",
+      "description": "azdazadz",
+      "image": "https://www.barkerandstonehouse.co.uk/images/swatchzoom/TWYFCHAIYELL_1_Zoom.jpg",
+      "price": 44,
+      "quantity": 52,
+      "title": "new10"
+    },
+    "-MY9rQ5vYFJKCDcoIFDU": {
+      "category": "furniture",
+      "description": "azdza",
+      "image": "https://www.barkerandstonehouse.co.uk/images/swatchzoom/TWYFCHAIYELL_1_Zoom.jpg",
+      "price": 4,
+      "quantity": 10,
+      "title": "new11"
+    },
+    "-MY9rkvqf3_3MeXdz9hm": {
+      "category": "art",
+      "description": "aadzazddz",
+      "image": "https://www.visualartsbrampton.com/images/exhibits/snail/sample-card-2.jpg",
+      "price": 1,
+      "quantity": 10,
+      "title": "new12"
+    },
+    "-MYAHkdm1xoGiYoj7aHI": {
+      "category": "GA",
+      "description": "123456789",
+      "image": "https://firebasestorage.googleapis.com/v0/b/products-app-237e6.appspot.com/o/images%2F1603135530380.jpeg?alt=media&token=ead13d45-c5cf-4273-b205-0d501a52a59c",
+      "price": 40,
+      "quantity": 10,
+      "title": "new product 123"
+    },
+    "-MYF9gMy2qspMAqdQto-": {
+      "category": "Clothes",
+      "description": "blue jeans\nnothing crazy",
+      "image": "https://firebasestorage.googleapis.com/v0/b/products-app-237e6.appspot.com/o/images%2FVBN_julian_hyperflex_mid_blue_swan_38069_1800x2100.jpg?alt=media&token=07e00354-92d7-4db4-aa70-4cad104d5fc2",
+      "price": 25,
+      "quantity": 14,
+      "title": "blue jeans"
+    }
+  }
+}
